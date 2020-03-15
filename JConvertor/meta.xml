@@ -6,9 +6,9 @@
 	<script type="server" src="Scripts/gtaLoader.lua" />
 	<script type="server" src="Scripts/Loader.lua" />
 	<script type="server" src="Scripts/objectLoader.lua" />
-	<script type="server" src="Scripts/JSDLoader.lua" />
+	<script type="server" src="Scripts/CSDLoader.lua" />
 	<script type="server" src="Scripts/CWaterDataLoader.lua" />
 	<script type="server" src="Scripts/metaLoader.lua" />
-	<script type="server" src="Scripts/JSPLoader.lua" />
+	<script type="server" src="Scripts/CSPLoader.lua" />
 	<script type="server" src="Scripts/Debug.lua" />
 </meta>

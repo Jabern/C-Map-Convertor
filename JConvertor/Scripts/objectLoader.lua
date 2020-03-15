@@ -61,10 +61,5 @@ for i,v in pairs(COLs) do
 	end
 end
 
--- Copy Files
-fileCopy ("Scripts/Presets/ClientLoader/JSDLoader.lua",MapName.."/Loaders/JSDLoader.lua",true)
-fileCopy ("Scripts/Presets/ServerLoader/JSPLoader.lua",MapName.."/Loaders/JSPLoader.lua",true)
-
-
 --- Copy files to new dictonary
 
